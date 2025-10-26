@@ -1,0 +1,87 @@
+# ——— Google Ads & Analytics ———
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 googlesyndication.com
+0.0.0.0 googleadservices.com
+0.0.0.0 adservice.google.com
+0.0.0.0 adservice.google.co.id
+0.0.0.0 doubleclick.net
+0.0.0.0 g.doubleclick.net
+0.0.0.0 googletagmanager.com
+0.0.0.0 tagmanager.google.com
+0.0.0.0 google-analytics.com
+0.0.0.0 ssl.google-analytics.com
+0.0.0.0 app-measurement.com
+0.0.0.0 bat.bing.com              # MS/Bing UET (sering dipakai kampanye)
+
+# ——— Meta / Facebook Pixel ———
+0.0.0.0 connect.facebook.net
+0.0.0.0 graph.facebook.com
+0.0.0.0 sb.scorecardresearch.com   # (sering terpanggil via Meta SDK)
+# (hindari memblokir seluruh facebook.com kalau masih butuh akses FB)
+
+# ——— TikTok Ads/Analytics ———
+0.0.0.0 business.tiktok.com
+0.0.0.0 ads.tiktok.com
+0.0.0.0 analytics.tiktok.com
+0.0.0.0 business-api.tiktok.com
+0.0.0.0 log.byteoversea.com
+
+# ——— Retargeting / Recommendation ———
+0.0.0.0 bidder.criteo.com
+0.0.0.0 gum.criteo.com
+0.0.0.0 dis.criteo.com
+0.0.0.0 rtb.criteo.com
+0.0.0.0 widget.criteo.com
+0.0.0.0 sslwidget.criteo.com
+0.0.0.0 cdn.taboola.com
+0.0.0.0 trc.taboola.com
+0.0.0.0 tr.taboola.com
+0.0.0.0 outbrain.com
+0.0.0.0 tr.outbrain.com
+0.0.0.0 odb.outbrain.com
+
+# ——— Mobile Measurement Partners (MMP) & Deep-link ———
+# AppsFlyer
+0.0.0.0 app.appsflyer.com
+0.0.0.0 t.appsflyer.com
+0.0.0.0 events.appsflyer.com
+0.0.0.0 register.appsflyer.com
+0.0.0.0 cdn.appsflyer.com
+# Branch
+0.0.0.0 api2.branch.io
+0.0.0.0 cdn.branch.io
+0.0.0.0 app.link
+0.0.0.0 bnc.lt
+# Adjust
+0.0.0.0 app.adjust.com
+0.0.0.0 cdn.adjust.com
+0.0.0.0 events.adjust.com
+0.0.0.0 track.adjust.com
+
+# ——— Pinterest / Twitter / Yahoo (sering dipakai iklan e-commerce) ———
+0.0.0.0 log.pinterest.com
+0.0.0.0 ct.pinterest.com
+0.0.0.0 analytics.twitter.com
+0.0.0.0 ads-api.twitter.com
+0.0.0.0 sp.analytics.yahoo.com
+
+# ——— Affiliate / Attribution (sering dipakai kampanye Shopee ID) ———
+0.0.0.0 involve.asia
+0.0.0.0 track.involve.asia
+0.0.0.0 go.involve.asia
+0.0.0.0 invol.co
+0.0.0.0 accesstrade.co.id
+0.0.0.0 track.accesstrade.co.id
+0.0.0.0 cj.com
+0.0.0.0 anrdoezrs.net
+0.0.0.0 dpbolvw.net
+0.0.0.0 tkqlhce.com
+0.0.0.0 jdoqocy.com
+0.0.0.0 awin.com
+0.0.0.0 awin1.com
+0.0.0.0 impact.com
+0.0.0.0 go2cloud.org
+
+# ——— (Opsional) Shopee Ads / promo internal (berpotensi memutus fitur iklan seller)
+0.0.0.0 ads.shopee.co.id
+0.0.0.0 ads.shopee.com
